@@ -17,6 +17,6 @@
 ・余った時間から算出した距離をGAS上で経度・緯度に換算することが難しく、無理やり計算式を設定しましたが寄り道先がほぼ固定されてしまっています。
   
 ## References
-・[Yahoo! Open Local Platform（YOLP）](https://developer.yahoo.co.jp/webapi/map/)
-・[Google App Script](https://developers.google.com/apps-script)
-・[LINE Messaging API](https://developers.line.biz/ja/services/messaging-api/)
+・[Yahoo! Open Local Platform（YOLP）](https://developer.yahoo.co.jp/webapi/map/)  
+・[Google App Script](https://developers.google.com/apps-script)  
+・[LINE Messaging API](https://developers.line.biz/ja/services/messaging-api/)  
