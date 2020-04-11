@@ -13,5 +13,10 @@
 ![sukima_walk_demo](https://user-images.githubusercontent.com/45617592/79033235-9115ac80-7be7-11ea-875c-94dc290bd30d.gif)
 
 ## Note
-・現在地は名古屋駅 JRセントラルタワーズで固定です。
-・余った時間から算出した距離をGAS上で経度・緯度に換算することが難しく、無理やり計算式を設定したせいで寄り道先がほぼ固定されてしまっています。
+・現在地は名古屋駅 JRセントラルタワーズで固定です。  
+・余った時間から算出した距離をGAS上で経度・緯度に換算することが難しく、無理やり計算式を設定しましたが寄り道先がほぼ固定されてしまっています。
+  
+## References
+・[Yahoo! Open Local Platform（YOLP）](https://developer.yahoo.co.jp/webapi/map/)
+・[Google App Script](https://developers.google.com/apps-script)
+・[LINE Messaging API](https://developers.line.biz/ja/services/messaging-api/)
